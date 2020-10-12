@@ -16,4 +16,4 @@ only change SOURCE_FILES var
 
 # step3: debug in clion
 
-
+![debug nginx in clion](https://raw.githubusercontent.com/huoyinghui/clion_cmake/main/nginx/nginx01.jpg)
